@@ -1,3 +1,3 @@
 # ExoGaitConVer2
-simplified version
+-- simplified version
 Exoskeleton robot control and human-machine software.
